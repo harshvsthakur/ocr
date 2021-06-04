@@ -1,5 +1,4 @@
-# ocr
-Optical Character Recognition for scanned documents
+# ocr : Optical Character Recognition for scanned documents
 
 Problem : Renaming scanned documents manually as per content in the scanned document.
 
@@ -28,3 +27,8 @@ Alternate methods :
   
   2. Using ocr APIs from popular website : OCR space
     https://ocr.space/ocrapi
+
+  
+Code works with Images only ! To convert from PDF to images, 3rd party program - Poppler / imagemagick is required (google this)
+  
+The alternate methods stated above can be used for direct PDF conversion.
