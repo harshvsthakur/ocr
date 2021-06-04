@@ -18,3 +18,13 @@ Solution : This code automates the process.
 4. Regex is applied on returned text from ocr based on required details from document
 5. Vendor Name is returned from vendor ID in document from an existing excel sheet
 6. Document is renamed as per required format
+
+
+Note: Accuracy is not the best and results have to be compared. But using some if else statements can help to correct the confusion with say 'O', 'o' and '0'.
+
+Alternate methods :
+  1. Google Vision API : found the set up complicated. Accuracy seems higher though.
+    Documentation : https://cloud.google.com/vision/docs/pdf
+  
+  2. Using ocr APIs from popular website : OCR space
+    https://ocr.space/ocrapi
