@@ -25,7 +25,7 @@ Alternate methods :
   1. Google Vision API : found the set up complicated. Accuracy seems higher though.
     Documentation : https://cloud.google.com/vision/docs/pdf
   
-  2. Using ocr APIs from popular website : OCR space
+  2. Using ocr APIs from popular website : OCR space (code available in ocr_api.py)
     https://ocr.space/ocrapi
 
   
